@@ -23,7 +23,7 @@ CLI App that will generate hello world from different supported languages.
 
 ## Usage
 
-```
+``` Terminal
 1: <path to executable> -h
 2: <path to executable> html ~/Downloads/hello.html
 ```
