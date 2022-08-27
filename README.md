@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Supported Language](#supported-language)
+- [Usage](#usage)
 
 ## About
 
