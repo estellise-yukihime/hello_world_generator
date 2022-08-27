@@ -15,7 +15,7 @@ const languages = [
   'kotlin',
 ];
 
-const languagesExtension = {
+const languageExtension = {
   'html': 'html',
   'javascript': 'js',
   'c#': 'cs',

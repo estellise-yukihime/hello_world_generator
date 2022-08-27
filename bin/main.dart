@@ -42,7 +42,7 @@ void showHelp(){
   print('supported language:');
   
   for (final language in languages){
-    print('\t$language.${languagesExtension[language]}');
+    print('\t$language.${languageExtension[language]}');
   }
   
   print('');
